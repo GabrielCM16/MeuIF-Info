@@ -8,8 +8,8 @@
 ## MeuIF: um aplicativo para o gerenciamento de atividades acadêmicas, frequência escolar e otimização dos procedimentos da seção pedagógica do IFPR Campus Cascavel
 **MeuIF: managing application for academic activities, school attendance and optimizing procedures in the pedagogical section of the IFPR Campus Cascavel**
 
-<div style="display: flex; justify-content: center; align-items: center; height: 400px;">
-    <img src="imagens/logogif.gif" alt="logo animada" >
+<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
+    <img src="imagens/logogif.gif" alt="logo animada" style="height: 400px; width: auto;">
 </div>
 
 ---
