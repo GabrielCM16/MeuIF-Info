@@ -11,7 +11,7 @@
 
 
 <div style="display: flex; justify-content: center; align-items: center; height: 400px;">
-  <img src="imagens/logogif.gif" alt="logo animada" style="max-width: 100%; max-height: 100%;">
+  <img src="imagens/logogif.gif" alt="logo animada" style="height: 400px;">
 </div>
 
 ---
@@ -39,10 +39,10 @@ Em conclusão, o desenvolvimento do aplicativo MeuIF representa um avanço signi
 Com base nos resultados do teste de usabilidade, observamos uma receptividade positiva dos estudantes, líderes de sala e a SEPAE em relação às funcionalidades do aplicativo, evidenciando sua praticidade e eficácia no contexto da instituição. 
 
 <div style="display: flex; justify-content: center; align-items: center; height: 250px;">
-  <img src="imagens/GraficoUsoGeral.png" alt="Grafico Uso Geral" style="max-width: 100%; max-height: 100%;">
+  <img src="imagens/GraficoUsoGeral.png" alt="Grafico Uso Geral" style="height: 250px;">
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center;>
+<div style="display: flex; justify-content: center; align-items: center;">
   <img src="imagens/UsabilidadeGeral.png" alt="Usabilidade Geral" style="max-width: 100%; max-height: 100%;">
 </div>
 
