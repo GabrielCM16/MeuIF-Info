@@ -9,7 +9,7 @@
 **MeuIF: managing application for academic activities, school attendance and optimizing procedures in the pedagogical section of the IFPR Campus Cascavel**
 
 <div style="display: flex; justify-content: center; align-items: center; height: 400px;">
-    <img src="imagens/logogif.gif" alt="logo animada" style="max-height: 100%; max-width: 100%;">
+    <img src="imagens/logogif.gif" alt="logo animada" >
 </div>
 
 ---
