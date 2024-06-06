@@ -1,6 +1,8 @@
 # MeuIF 
-**[Download do Aplicativo](MeuIF.apk)**
-**[Download do Aplicativo](https://meuif-15823.web.app/)**
+**[Download do Aplicativo Android](MeuIF.apk)**
+
+**[WebSite Multiplataforma](https://meuif-15823.web.app/)**
+
 ## MeuIF: um aplicativo para o gerenciamento de atividades acadêmicas, frequência escolar e otimização dos procedimentos da seção pedagógica do IFPR Campus Cascavel
 **MeuIF: managing application for academic activities, school attendance and optimizing procedures in the pedagogical section of the IFPR Campus Cascavel**
 
@@ -31,7 +33,7 @@ Em conclusão, o desenvolvimento do aplicativo MeuIF representa um avanço signi
 
 Com base nos resultados do teste de usabilidade, observamos uma receptividade positiva dos estudantes, líderes de sala e a SEPAE em relação às funcionalidades do aplicativo, evidenciando sua praticidade e eficácia no contexto da instituição. 
 
-<img src="imagens/GraficoUsoGeral.png" alt="Grafico Uso Geral" width="400">
+<img src="imagens/GraficoUsoGeral.png" alt="Grafico Uso Geral" width="200">
 
 <img src="imagens/UsabilidadeGeral.png" alt="Usabilidade Geral">
 ---
