@@ -28,6 +28,17 @@ O desenvolvimento do aplicativo MeuIF foi implementado no ambiente do Android St
 
 Em conclusão, o desenvolvimento do aplicativo MeuIF representa um avanço significativo na otimização e simplificação das atividades diárias dos alunos e da SEPAE, atendendo à necessidade premente de aprimoramento das operações.
 
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    Com base nos resultados do teste de usabilidade, observamos uma receptividade positiva dos estudantes, líderes de sala e a SEPAE em relação às funcionalidades do aplicativo, evidenciando sua praticidade e eficácia no contexto da instituição. 
+
+  </div>
+  <div>
+    <img src="imagens/GraficoUsoGeral" alt="Grafico Uso Geral">
+  </div>
+</div>
+
+<img src="imagens/UsabilidadeGeral" alt="Usabilidade Geral">
 ---
 
 © 2023 Gabriel C. Moraes & Heloísa Raquel.
