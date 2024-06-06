@@ -3,11 +3,16 @@
 
 **[WebSite Multiplataforma](https://meuif-15823.web.app/)**
 
+**[Artigo Do Projeto](Artigo-MeuIF.pdf)**
+
 ## MeuIF: um aplicativo para o gerenciamento de atividades acadêmicas, frequência escolar e otimização dos procedimentos da seção pedagógica do IFPR Campus Cascavel
 **MeuIF: managing application for academic activities, school attendance and optimizing procedures in the pedagogical section of the IFPR Campus Cascavel**
 
-<img src="imagens/logogif.gif" alt="logo animada" width="400">
 
+
+<div style="display: flex; justify-content: center; align-items: center; height: 400px;">
+  <img src="imagens/logogif.gif" alt="logo animada" style="max-width: 100%; max-height: 100%;">
+</div>
 
 ---
 
@@ -33,9 +38,14 @@ Em conclusão, o desenvolvimento do aplicativo MeuIF representa um avanço signi
 
 Com base nos resultados do teste de usabilidade, observamos uma receptividade positiva dos estudantes, líderes de sala e a SEPAE em relação às funcionalidades do aplicativo, evidenciando sua praticidade e eficácia no contexto da instituição. 
 
-<img src="imagens/GraficoUsoGeral.png" alt="Grafico Uso Geral" width="200">
+<div style="display: flex; justify-content: center; align-items: center; height: 250px;">
+  <img src="imagens/GraficoUsoGeral.png" alt="Grafico Uso Geral" style="max-width: 100%; max-height: 100%;">
+</div>
 
-<img src="imagens/UsabilidadeGeral.png" alt="Usabilidade Geral">
+<div style="display: flex; justify-content: center; align-items: center;>
+  <img src="imagens/UsabilidadeGeral.png" alt="Usabilidade Geral" style="max-width: 100%; max-height: 100%;">
+</div>
+
 ---
 
 © 2023 Gabriel C. Moraes & Heloísa Raquel.
