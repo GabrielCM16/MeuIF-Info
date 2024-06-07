@@ -26,9 +26,55 @@
 
 No âmbito do Instituto Federal do Paraná, Campus Cascavel, surgiu a necessidade de desenvolver um software capaz de otimizar tarefas diárias dos alunos e da Seção Pedagógica e de Assuntos Educacionais (SEPAE). Nesse contexto, este trabalho realizou o desenvolvimento do aplicativo MeuIF, voltado para dispositivos Android, que auxilia a SEPAE na identificação da evasão escolar, otimização dos procedimentos da seção pedagógica e gerenciamento de atividades acadêmicas do IFPR Campus Cascavel.
 
+## Funcionalidades Gerais
+
+- Login e Cadastro com matrícula 
+  - Login e Cadastro via Firebase Authentication com e-mail e senha
+  - Recuperação de senha por e-mail
+
+- Carteirinha de identificação pessoal 
+  - QR Code identificando cada aluno
+
+- Chamada de turma
+  - Chamada realizada pelo líder da turma 
+  - Visualização via app e download de PDF para a SEPAE
+ 
+- Registro de acesso ao campus
+  - Registro de entradas e saídas do campus para a SEPAE 
+  - Registros de entradas e saídas pessoais
+ 
+- Registro de quantidade PNAE 
+  - Programa Nacional de Alimentação Escolar (PNAE)
+  - Registro para controle de quantidade 
+  - Cardápio diário
+  - Gráficos de quantidade
+
+- Autorizações 
+  - Autorizações de entrada atrasada e saída antecipada 
+  - Autorização requisitada pelo aluno e disponibilizada no app pela SEPAE
+  
+- Gerenciamento de perfis 
+  - Permissões de Usuário
+  - Controle de Acesso de conta
+  - Gerenciamento de Acesso
+
 ## Desenvolvimento
 
 O desenvolvimento do aplicativo MeuIF foi implementado no ambiente do Android Studio, empregando a linguagem de programação Java e utilizando a infraestrutura de computação em nuvem Google Cloud Platform.
+
+O servidor backend é desenvolvido em Node.js, aproveitando a robustez e a escalabilidade dessa plataforma. A seguir, detalhamos as principais tecnologias e serviços Firebase que integram nossa infraestrutura:
+
+- Firebase Functions: Utilizamos funções serverless do Firebase para executar a lógica backend. Isso nos permite escalar automaticamente e pagar apenas pelos recursos utilizados, sem a necessidade de gerenciar servidores.
+
+- Firebase Hosting: O Firebase Hosting é utilizado para hospedar tanto a aplicação web quanto as funções de backend, garantindo entrega rápida e segura de conteúdo.
+
+- Firebase Firestore Database: Para armazenamento de dados, optamos pelo Firestore, um banco de dados NoSQL que permite a sincronização em tempo real e suporte offline, essencial para uma experiência de usuário fluida.
+
+- Firebase Storage: O Firebase Storage é empregado para armazenar e servir arquivos de maneira eficiente e segura, como imagens, vídeos e documentos.
+
+- Firebase Events: A integração com Firebase Events nos permite rastrear e responder a eventos específicos dentro da aplicação, como interações de usuários ou atualizações de dados.
+
+- Firebase Analytics: Com Firebase Analytics, obtemos insights detalhados sobre o comportamento dos usuários, o que nos ajuda a tomar decisões informadas para melhorar a aplicação continuamente.
 
 ## Conclusão
 
