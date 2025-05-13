@@ -22,6 +22,15 @@
 
 ---
 
+## Participações em Eventos Acadêmicos
+
+- [Latinoware - Latin Science 2024 (Full Paper)](https://drive.google.com/file/d/1ACIbwhBDSFw6fl3su0sdL0PWzeidNS9C/view)
+- [SE²PIN 2023 (Artigo)](https://ifpr.edu.br/sepin2023/)
+- SEPIEX 2023
+- Scientif 2023
+
+---
+
 ## Resumo
 
 No âmbito do Instituto Federal do Paraná, Campus Cascavel, surgiu a necessidade de desenvolver um software capaz de otimizar tarefas diárias dos alunos e da Seção Pedagógica e de Assuntos Educacionais (SEPAE). Nesse contexto, este trabalho realizou o desenvolvimento do aplicativo MeuIF, voltado para dispositivos Android, que auxilia a SEPAE na identificação da evasão escolar, otimização dos procedimentos da seção pedagógica e gerenciamento de atividades acadêmicas do IFPR Campus Cascavel.
