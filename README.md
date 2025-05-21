@@ -28,7 +28,7 @@
 - [SE²PIN 2023 (Artigo)](https://ifpr.edu.br/sepin2023/)
 - SEPIEX 2023
 - Scientif 2023
-- - Scientif 2024
+- Scientif 2024
 
 ---
 
